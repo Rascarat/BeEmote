@@ -31,7 +31,9 @@ We use MySql.
 Prepare to type the password corresponding to your root login, after entering each of the following commands.
 
 First step is creating a user `beemote` with adequat privileges.
-In the console (while in the solution folder):
+Open your console and cd to the solution folder (not in the nuget packet manager):
+
+	default solution folder: C:\users\<myUserName>\Source\Repos\BeEmote
 
     mysql -uroot -p < beemote_user.sql
 

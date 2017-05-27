@@ -57,3 +57,5 @@ In the 2 last files do:
     - etc...
 
 Should be good to go now.
+
+TODO: Explain how to add app.config in both wpf and tests.
